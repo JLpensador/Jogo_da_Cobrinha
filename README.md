@@ -1,4 +1,3 @@
-Jogo_da_Cobrinha
 Um Jogo inspirado no clássico jogo da Cobrinha feito com Html. Css e JavaScript <br>
 Feito juntamente com meu Projeto feito com amigos Cerberus group <br> <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
